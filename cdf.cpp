@@ -6,6 +6,6 @@ using namespace std;
 int main() {
  
     int q;
-    cout<< "Hello Cognizant";   
+    cout<< "ham logon ko kya hua Hello Cognizant";   
     return 0;
 }
