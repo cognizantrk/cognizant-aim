@@ -6,10 +6,10 @@ using namespace std;
 int main() {
  
     int q;
-    cout<<"change ke upar";
+    cout<<"aboce the change";
     cout<<"This is the latest change";
-    cout<< "Hello World ab bata chal na";   
-    cout<<"This is the latest change my foot";
-    cout<<"tumhare hain";
+    cout<< "Hello World";   
+    cout<<"This is the latest change";
+    cout<<"this is yours";
     return 0;
 }
